@@ -6,7 +6,7 @@
 
 **netty-Reactor工作架构图** :
 
-![image](images/netty-Reactor工作架构图.png)
+![image](https://uploader.shimo.im/f/B6LU7ZBIEr8yu2lJ.png!original)
 
 <br>
 
